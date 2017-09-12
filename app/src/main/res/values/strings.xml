@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GetWebPageSourceCode</string>
+    <string name="enter_url">Enter URL:</string>
+    <string name="source_code">Page source code will appeat here..</string>
+    <string name="get_page_source">Get page source code</string>
+    <string name="no_net">No Network Connection</string>
+    <string name="no_text">Enter some URL in the text field</string>
+    <string name="enter">Enter URL</string>
+    <string-array name="type">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
